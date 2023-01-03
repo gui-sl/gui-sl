@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7234b9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6fea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+de+Souza+Luiz;I'm+19+years+old;I'm+developer+front-end;I'm+from+Brazil;I'm+Technical+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7234b9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+de+Souza+Luiz;I'm+19+years+old;I'm+developer+front-end;I'm+from+Brazil;I'm+Technical+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/gui-sl">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-sl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sl&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-sl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sl&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
 ### Studying in this moment:
@@ -26,4 +26,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c8eda&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7234b9&height=120&section=footer"/>
