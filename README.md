@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/gui-sl">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gui-sl&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sl&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-sl&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ### Studying in this moment:
